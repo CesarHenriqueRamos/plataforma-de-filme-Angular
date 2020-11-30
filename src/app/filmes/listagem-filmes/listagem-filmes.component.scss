@@ -20,7 +20,9 @@
   margin: auto;
   display: block;
 }
-
+.quebrar-linha{
+  padding-top: 15px;
+}
 @media screen and (min-width: 525px) {
   .home-content {
     .home-card {
